@@ -2,4 +2,4 @@
 
 Chen
 
-This is code from in class for data  warangling. First session is foucused on data import
+This is code from in class for data  wrangling. First session is focused on data import.
